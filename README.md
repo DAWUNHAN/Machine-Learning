@@ -1,6 +1,7 @@
 # 머신러닝 with Python
 
 [파이썬 머신러닝 완벽 가이드]를 공부하며 정리한 레포지터리 입니다.
+[블로그 바로가기](https://da-journal.com/)
 ![기본 개념](https://github.com/DAWUNHAN/Machine-Learning/blob/master/image/ml%20%EC%A0%95%EB%A6%AC.png?raw=true)
 
 ## 📌 사이킷런 (Scikit learn)
@@ -45,3 +46,16 @@
 
 ## 📌 텍스트 분석
 - [텍스트 전처리](https://github.com/DAWUNHAN/Machine-Learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
+- [뉴스 분류](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_20%20Newsgroup%20%EB%B6%84%EB%A5%98.ipynb)
+- [감성 분석](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.ipynb)
+- [문서 군집화](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%AC%B8%EC%84%9C%20%EA%B5%B0%EC%A7%91%ED%99%94.ipynb)
+- [토픽 모델링 & LDA](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%ED%86%A0%ED%94%BD%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%26%20LDA.ipynb)
+- [문서 유사도](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%AC%B8%EC%84%9C%20%EC%9C%A0%EC%82%AC%EB%8F%84.ipynb)
+- [네이버 영화 평점 감성 분석](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%98%81%ED%99%94_%ED%8F%89%EC%A0%90_%EA%B0%90%EC%84%B1_%EB%B6%84%EC%84%9D.ipynb)
+- [캐글 Mercari 가격 예측](https://github.com/DAWUNHAN/machine-learning/blob/master/%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EC%84%9D/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EC%BA%90%EA%B8%80_Mercari_Price_Suggestion.ipynb)
+
+## 📌 추천
+- [컨텐츠 기반 필터링 Contents Based Filtering](https://github.com/DAWUNHAN/machine-learning/blob/master/%EC%B6%94%EC%B2%9C/%EC%B6%94%EC%B2%9C_Contents%20based%20filtering.ipynb)
+- [협업 필터링 Collaborative Filtering](https://github.com/DAWUNHAN/machine-learning/blob/master/%EC%B6%94%EC%B2%9C/%EC%B6%94%EC%B2%9C_Collaborative%20Filtering.ipynb)
+- [잠재 요인 협업 필터링 Latent Collaborative Filtering](https://github.com/DAWUNHAN/machine-learning/blob/master/%EC%B6%94%EC%B2%9C/%EC%B6%94%EC%B2%9C_Latent%20Collaborative%20Filtering.ipynb)
+- [Surprise Package](https://github.com/DAWUNHAN/machine-learning/blob/master/%EC%B6%94%EC%B2%9C/%EC%B6%94%EC%B2%9C_Surprise%20%ED%8C%A8%ED%82%A4%EC%A7%80.ipynb)
