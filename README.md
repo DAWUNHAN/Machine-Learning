@@ -1,6 +1,7 @@
 # 머신러닝 with Python
 
-[파이썬 머신러닝 완벽 가이드]를 공부하며 정리한 레포지터리 입니다.
+머신러닝을 공부하며 정리한 레포지터리 입니다.
+
 [블로그 바로가기](https://da-journal.com/)
 ![기본 개념](https://github.com/DAWUNHAN/Machine-Learning/blob/master/image/ml%20%EC%A0%95%EB%A6%AC.png?raw=true)
 
